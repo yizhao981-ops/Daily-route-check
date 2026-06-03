@@ -1,5 +1,10 @@
 # Daily DSP Operation Check
 
+streamlit==1.37.1
+pandas==2.2.2
+openpyxl==3.1.5
+pytz==2024.1
+
 Streamlit app for generating daily route monitoring Excel reports.
 
 ## Input Requirements
